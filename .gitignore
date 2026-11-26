@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+# Local IDs of the agent and environment created by setup_agent.py
+.simpleagent.json
